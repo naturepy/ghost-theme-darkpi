@@ -1,0 +1,14 @@
+:root {
+    --blue: #3eb0ef;
+    --darkgrey: #15171A;
+    --midgrey: #738a94;
+    --lightgrey: #c5d2d9;
+    --whitegrey: #e5eff5;
+
+    --background: #1e1f22;
+    --text: #dcdcdc;
+    --title: #cbdae4;
+    --link: #daf1fd;
+    --tag: #6699cc;
+    --code-background: #2d2d2d;
+}
