@@ -1813,9 +1813,6 @@ Usage (In Ghost editor):
     .floating-header-logo {
         margin-left: 10px;
     }
-    .floating-header-logo a {
-        color: #2e2e2e;
-    }
     .floating-header-title,
     .floating-header-divider {
         visibility: hidden;
