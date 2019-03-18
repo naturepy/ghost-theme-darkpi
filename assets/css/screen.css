@@ -747,6 +747,7 @@ make sure this only happens on large viewports / desktop-ish devices.
     font-family: Georgia, serif;
     font-size: 2.2rem;
     line-height: 1.6em;
+    background: #1e1f22;
 }
 
 @media (max-width: 1170px) {
